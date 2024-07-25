@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">i think i like cyber sec</p>
+<p align="left">• Cybersecurity prodigy<br>• Upcoming entrepreneur and Red Team operator<br>• 2 years in Cybersecurity<br>• certification that I'm looking forward to: OSCP, OSEP, A+, N+, OSWP,</p>
 
 ###
 
