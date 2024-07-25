@@ -14,9 +14,7 @@
 
 ###
 
-<br clear="both">
-
-<h1 align="center"></h1>
+<h1 align="center">Hello there :)</h1>
 
 ###
 
