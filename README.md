@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">• Cybersecurity prodigy<br>•<br>• Upcoming entrepreneur and Red Team operator, And Cybersecurity Teacher<br>• 4 years in Cybersecurity<br>• Certification that I'm looking forward to: OSCP, OSEP, A+, N+, OSWP, OSED, OSEE, SEC+, PJPT.<br>• And Never give up <3</p>
+<p align="left">• Cybersecurity prodigy<br><br>• Upcoming entrepreneur and Red Team operator, And Cybersecurity Teacher<br>• 4 years in Cybersecurity<br>• Certification that I'm looking forward to: OSCP, OSEP, A+, N+, OSWP, OSED, OSEE, SEC+, PJPT.<br>• And Never give up <3</p>
 
 ###
 
