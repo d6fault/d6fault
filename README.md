@@ -9,6 +9,7 @@
 - **CVE-2026-46393** — SSRF in `@haxtheweb/haxcms-nodejs` via the authenticated `createSite` endpoint (High · 7.1) → [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-46393)
 - **CVE-2026-23695** — Stored XSS in Cockpit CMS <= 2.14.0 via the Set field type's Display template option, rendered with Vue's `v-html` (Medium) → [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-23695)
 - **CVE-2026-46401** — Session fixation in HAXcms < 26.0.0: auth tokens remain valid after logout (Medium · 5.3) → [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-46401)
+- **CVE-2026-95675** — Unauthenticated root RCE in D-Link DAP-1360 firmware ≤ 6.14 via OS command injection (CWE-78) in the web management interface (Critical · 9.8) → [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-95675)
 
 ## Highlights
 
