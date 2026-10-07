@@ -14,6 +14,7 @@
 ## Highlights
 
 - Reported security issues affecting U.S. government entities, including the **Department of Defense**, **Department of Education**, and **Department of Health and Human Services**
+- Acknowledged by the **U.S. Department of Energy** (DOE Responsible Disclosure, powered by Synack) → [Acknowledgments](https://doe.responsibledisclosure.com/hc/en-us/articles/360052066474-Acknowledgments)
 - 300+ TryHackMe rooms; hall-of-fame listings (HackerOne, Synack/hhs.gov — 2025)
 - Publishes technical write-ups at **[d6fault.dev](https://d6fault.dev)**
 
