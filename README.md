@@ -10,6 +10,7 @@
 - **CVE-2026-23695** — Stored XSS in Cockpit CMS <= 2.14.0 via the Set field type's Display template option, rendered with Vue's `v-html` (Medium) → [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-23695)
 - **CVE-2026-46401** — Session fixation in HAXcms < 26.0.0: auth tokens remain valid after logout (Medium · 5.3) → [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-46401)
 - **CVE-2026-95675** — Unauthenticated root RCE in D-Link DAP-1360 firmware ≤ 6.14 via OS command injection (CWE-78) in the web management interface (Critical · 9.8) → [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-95675)
+- **CVE-2026-109439** — Missing authentication (CWE-306) in Lantronix XPress-DR / XPress-DR-I (CoBos-family) firmware ≤ 8.1.0.0: unauthenticated `0xF8`/`0xFD` frames to the UDP config protocol on port 30718 read and persistently rewrite device IP and serial-channel forwarding records in EEPROM (Critical · 9.8) → [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-109439) · [VulnCheck](https://www.vulncheck.com/advisories/lantronix-xpress-dr-unauthenticated-configuration-write-via-udp-30718)
 
 ## Highlights
 
