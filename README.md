@@ -15,7 +15,7 @@
 ## Highlights
 
 - Reported security issues affecting U.S. government entities, including the **Department of Defense**, **Department of Education**, **Department of Health and Human Services**, the **[Department of Energy](https://doe.responsibledisclosure.com/hc/en-us/articles/360052066474-Acknowledgments)**, and the **[Department of Justice](https://fb6d331c8f530081fa81e12d81678ff8.responsibledisclosure.com/hc/en-us/articles/1500003305722-Acknowledgments)**
-- 300+ TryHackMe rooms; hall-of-fame listings (HackerOne, Synack/hhs.gov — 2025)
+- 300+ TryHackMe rooms; hall-of-fame listings (HackerOne, Synack — hhs.gov, doe.gov, doj.gov, Domino's)
 - Publishes technical write-ups at **[d6fault.dev](https://d6fault.dev)**
 
 ## Links
